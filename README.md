@@ -8,4 +8,4 @@ Visualizing the impact of lockdown and restrictions on airport traffic volume at
 Leading the group, this project explores visualization techniques between countries across time, between states and provinces, by city and by airport. 
 My focus included a ridgeline plot to compare the distributions between the two countries by month and violin plots to compare the distributions by state and province using custom color schemes and visualization techniques in ggplot2. 
 
-The dataset comes from <a href="https://www.kaggle.com/datasets/terenceshin/covid19s-impact-on-airport-traffic">Kaggle</a>with data from Geotab Inc. 
+The dataset comes from <a href="https://www.kaggle.com/datasets/terenceshin/covid19s-impact-on-airport-traffic"> Kaggle </a>with data from Geotab Inc. 
